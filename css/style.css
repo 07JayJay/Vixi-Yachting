@@ -482,7 +482,7 @@ h1, h2, h3, h4, h5, h6, figure {
   -ms-appearance: none;
   -o-appearance: none;
   appearance: none;
-  background: rgba(255, 255, 255, 0.03);
+  background: rgb(44, 46, 62);
   border: 2px solid rgba(255, 255, 255, 0.1);
   color: rgba(255, 255, 255, 0.7); }
   .colorlib-form .form-control:active, .colorlib-form .form-control:focus {
@@ -563,9 +563,9 @@ h1, h2, h3, h4, h5, h6, figure {
     background: #00BBF0; }
   @media screen and (max-width: 768px) {
     .aside-stretch {
-      background: transparent; }
+      background: #00BBF0; }
       .aside-stretch:after {
-        background: transparent;
+        background: #00BBF0;
         display: none; } }
 
 .no-gutters {
