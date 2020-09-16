@@ -62,7 +62,7 @@ h1, h2, h3, h4, h5, h6, figure {
   margin: 0 0 20px 0; }
   
   .service-title {
-	  color:#FFFFFF;
+	color: #595959;
 	  }
 
 ::-webkit-selection {
@@ -549,7 +549,7 @@ h1, h2, h3, h4, h5, h6, figure {
   .services .icon {
     margin: 0 auto;
     margin-bottom: 20px;
-    background: #f7f7f7;
+    background: #fff;
     width: 120px;
     height: 120px;
     display: table;
@@ -565,7 +565,7 @@ h1, h2, h3, h4, h5, h6, figure {
       color: #00BBF0; }
 
 .aside-stretch {
-  background: #00BBF0; }
+  background: #fff; }
   .aside-stretch:after {
     position: absolute;
     top: 0;
@@ -576,7 +576,7 @@ h1, h2, h3, h4, h5, h6, figure {
     background: #00BBF0; }
   @media screen and (max-width: 768px) {
     .aside-stretch {
-      background: #00BBF0; }
+      background: #fff; }
       .aside-stretch:after {
         background: #00BBF0;
         display: none; } }
